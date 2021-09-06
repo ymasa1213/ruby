@@ -1,1 +1,1 @@
-puts "WEBCAMPプログラミング学習".include?("WEBCAP")
+puts "WEBCAMPプログラミング学習".include?("WEBCAMP")
